@@ -1,4 +1,4 @@
-# Website for STA 210 at Duke University (Spring 2022)
+# Website for BayesianStat
 
 🔗 https://sta210-s22.github.io/website/
 
